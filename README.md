@@ -142,6 +142,29 @@
     3. Use "Back to All Books" to reset filter
 
 
+## 🗒️ Assignment Notes
+
+### Commit History
+The GitHub repository includes at least 10 meaningful commits showing the development process:
+1. Initial Vite React setup
+2. Project structure and routing
+3. Redux store implementation
+4. Home page components
+5. Browse books functionality
+6. Book details page
+7. Add book form with validation
+8. 404 page implementation
+9. Styling and Bootstrap integration
+10. Final cleanup and documentation
+
+### Code Comments
+The codebase includes comments explaining:
+- Component purposes
+- Complex logic
+- Redux actions and reducers
+- Form validation rules
+- Routing configurations
+
 
 ## 📧 Contact
 
