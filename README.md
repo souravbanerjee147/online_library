@@ -153,16 +153,16 @@
 
 ### Commit History
 The GitHub repository includes at least 10 meaningful commits showing the development process:
-1. Initial Vite React setup
-2. Project structure and routing
-3. Redux store implementation
-4. Home page components
-5. Browse books functionality
-6. Book details page
-7. Add book form with validation
-8. 404 page implementation
-9. Styling and Bootstrap integration
-10. Final cleanup and documentation
+1. README.md added successfully
+2. Setup project folder structure
+3. BookCard.jsx is successfully created in components
+4. BookForm.jsx is successfully created in components
+5. BookList.jsx is successfully created in components
+6. Header.jsx is successfully created in components
+7. SearchBar.jsx is successfully created in components
+8. AddBook.jsx is successfully created in pages
+9. BookDetails.jsx is successfully created in pages
+10. FBrowseBooks.jsx is successfully created in pages
 
 ### Code Comments
 The codebase includes comments explaining:
