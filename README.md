@@ -46,6 +46,13 @@
         npm install
         ```
 
+            (Optional) if it shows this error 'npm error code EOVERRIDE', remove node_modules and package-lock.json and again install dependencies
+        ```bash
+        rm -rf node_modules
+        rm package-lock.json
+        npm install
+        ```
+
         3. **Start the development server**
         ```bash
         npm run dev
